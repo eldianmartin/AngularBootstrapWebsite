@@ -1,4 +1,4 @@
-﻿var app = angular.module('EstalaseApp', ['ngRoute', 'ngAnimate', 'toaster']);
+﻿var app = angular.module('EstalaseApp', ['ngRoute', 'ngAnimate', 'toaster','ui.bootstrap']);
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider.
 	 when('/', {

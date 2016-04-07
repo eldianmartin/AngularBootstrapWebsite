@@ -39,6 +39,7 @@
     margin: 10px 0px;
     padding:0px;
     position: relative;
+	margin-right:15px;
 }
 .navbar-nav{
      margin: 10px 0px;
@@ -47,6 +48,7 @@
         position: absolute;
         right:0px;
         top:0px;
+		padding:9px;
     }
 
 .navbar-nav > li > a {
